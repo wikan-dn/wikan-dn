@@ -1,4 +1,4 @@
-![Kenny](img/github-header-image.png)
+![Kenny](img/github-header-image.png)!
 <h4 align="center">My Skills</h4>
 <p align="center">
   <a href="https://skillicons.dev">
