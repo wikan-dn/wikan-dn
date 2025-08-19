@@ -19,15 +19,3 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <a href="https://github.com/wikan-dn">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=wikan-dn&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/wikan-dn">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=wikan-dn&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
-</p>
